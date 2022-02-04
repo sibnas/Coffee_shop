@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    align-items: flex-end;
+    color: #FFFFFF;
+    &__text {
+        font-size: 12px;
+        list-style-type: none;
+        margin-right: 40px;
+        text-decoration: none;
+        color: #FFFFFF;
+        &__black {
+            color: #000000;
+        }
+    }
+    &__footer {
+        color: black;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,18 @@
+* {
+    font-family: Merienda;
+}
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+@import 'blocks/promo';
+@import 'blocks/header';
+@import 'blocks/buttons';
+@import 'blocks/inform';
+@import 'blocks/emblem';
+@import 'blocks/best-item';
+@import 'blocks/footer';
+@import 'blocks/coffee';
+@import 'blocks/informaition';
+@import 'blocks/catalog';

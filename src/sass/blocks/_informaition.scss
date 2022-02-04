@@ -1,0 +1,26 @@
+.informaition {
+    display: block;
+    min-height: 1248px;
+    padding: 70px 0 30px 0;
+    &__pleasure {
+        min-height: 1155px;
+    }
+    &__tabl {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    &__our {
+        text-align: center;
+    }
+    
+    &__desc {
+        width: 346px;
+        height: 232px;
+        text-align: center;
+    }
+    &__img {
+        margin-right: 60px;
+    }
+}
+
